@@ -4,4 +4,7 @@ This repository showcases my solutions for the hands-on assignments from the Cog
 # Week 1
 
 1.Design principles & Patterns
+
+
+
 2.Data structures and Algorithms
