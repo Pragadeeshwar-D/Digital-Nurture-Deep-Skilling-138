@@ -1,0 +1,4 @@
+12:00:01.000 [main] INFO  ErrorWarningLogger - Application started.
+12:00:01.010 [main] ERROR ErrorWarningLogger - An error occurred while processing: Sample simulated exception
+12:00:01.020 [main] WARN  ErrorWarningLogger - This is a sample warning message!
+12:00:01.030 [main] INFO  ErrorWarningLogger - Application ended.
