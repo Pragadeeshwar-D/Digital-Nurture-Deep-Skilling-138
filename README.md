@@ -13,7 +13,36 @@ This repository showcases my solutions for the hands-on assignments from the Cog
 
 # PLSQL_Exercises
 Exercise 1 : Control Structures
+
+
 Exercise 3 : Stored Procedures
+
+# TDD Using JUnit5 and Mockito
+
+Exercise 1 : Setting up Junit5
+
+Exercise 3 : Verifying interactions
+
+Exercise 4: Arrange-Act-Assert (AAA) Pattern, Test Fixtures, Setup 
+
+Mockito Exercises
+
+Exercise 1: Mocking and Stubbing
+
+Exercise 2: Verifying Interactions
+
+
+#  SL4J Logging exercises
+
+Exercise 1: Logging Error Messages and Warning Levels
+
+
+
+
+
+
+
+
 
 
 
