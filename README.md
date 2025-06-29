@@ -8,3 +8,12 @@ This repository showcases my solutions for the hands-on assignments from the Cog
 
 
 2.Data structures and Algorithms
+
+# Week 2
+
+# PLSQL_Exercises
+Exercise 1 : Control Structures
+Exercise 3 : Stored Procedures
+
+
+
