@@ -38,6 +38,27 @@ Exercise 1: Logging Error Messages and Warning Levels
 
 
 
+# Week 3
+
+
+# Spring core and maven
+
+Exercise 1 : Configuring a Basic Spring Application
+
+Exercise 2 : Implementing Dependency Injection
+
+Exercise 4 : Creating and Configuring a Maven Project
+
+
+# Spring Data JPA with Spring Boot, Hibernate
+
+Difference between JPA, Hibernate and Spring Data JPA
+
+Spring Data JPA - Quick Example
+
+
+
+
 
 
 
