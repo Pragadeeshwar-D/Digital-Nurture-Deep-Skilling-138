@@ -67,6 +67,38 @@ Spring Data JPA - Quick Example
 
 
 
+# Week 4
+
+
+# Spring REST using Spring Boot 3
+
+
+
+
+
+# JWT-handson
+
+Create authentication service that returns JWT
+
+
+
+
+# spring-rest-handson
+
+Create a Spring Web Project using Maven
+
+Hello World RESTful Web Service
+
+REST - Country Web Service
+
+REST - Get country based on country code
+
+Spring Core – Load Country from Spring Configuration XML
+
+
+
+
+
 
 
 
